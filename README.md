@@ -4,17 +4,17 @@ New AUDT Token Contract
 
 The following are functions of the New AUDT Token Contract:
 
-Burnable
-Mintable
-Pausable
-No Cap
-With ability to be migrated to a new contract in the future
-With ability to lock and unlock ERC20 functions based on user address
-With ability to refuse to accept tokens sent to this contract by mistake
-Token Name: "Auditchain"
-Token Ticker: "AUDT"
-Number of decimals:18
-Maximum Initial Supply: 250,000,000
+Burnable,
+Mintable,
+Pausable,
+No Cap.
+With ability to be migrated to a new contract in the future.
+With ability to lock and unlock ERC20 functions based on user address.
+With ability to refuse to accept tokens sent to this contract by mistake.
+Token Name: "Auditchain".
+Token Ticker: "AUDT".
+Number of decimals:18.
+Maximum Initial Supply: 250,000,000.
 
 The new AUDT token contract allows a second contract to govern the automation of token minting, pause and lock functions. Secondary contracts trigger call functions to the new AUDT Contract. 
 
