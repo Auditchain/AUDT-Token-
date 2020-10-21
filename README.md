@@ -16,7 +16,7 @@ Token Ticker: "AUDT".
 Number of decimals:18.
 Maximum Initial Supply: 250,000,000.
 
-The new AUDT token contract allows a second contract to govern the automation of token minting, pause and lock functions. Secondary contracts trigger call functions to the new AUDT Contract. 
+The new AUDT token contract allows a second contract to govern the automation of token minting, pause and lock functions. Secondary contract(s) trigger call functions to the new AUDT Contract. 
 
 The New AUDT Contract features the ability for the owner(s) to add and authorize secondary contract(s) after deployment.
 
